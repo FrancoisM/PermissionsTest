@@ -50,5 +50,11 @@
 	<string>LaunchScreen</string>
 	<key>CFBundleName</key>
 	<string>PermissionsTest</string>
+  <key>NSCameraUsageDescription</key>
+  <string>Please allow access to camera.</string>
+  <key>NSPhotoLibraryUsageDescription</key>
+  <string>Please allow access to photos.</string>
+  <key>NSPhotoLibraryAddUsageDescription</key>
+  <string>Please allow access to photos gallery.</string>
 </dict>
 </plist>
